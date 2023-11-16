@@ -1,2 +1,7 @@
-package com.corenetworks.modelo;public enum TipoProducto {
+package com.corenetworks.modelo;
+
+public enum TipoProducto {
+    PRODUCTO_PRIMERA_NECESIDAD,
+    PRODUCTO_LUJO,
+    PRODUCTO_ALIMENTACION
 }
